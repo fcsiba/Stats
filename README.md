@@ -1,2 +1,5 @@
 # Stats
  
+Commutes using the STATS Application will be quick, the user will be able to navigate through the city to their respective drop-off points, in the most effective and efficient manner possible. Through direct experience, our group has encountered the difficulties related with day by day drives inside the city. Rickshaws are generally untrustworthy and costly and vehicle organizations are restrictively costly. STATS will offer a one of a kind open door to all the organizations to provide their students with  STATS where they can travel inside the city whenever the timing is ideal, in solace and at moderate costs.
+
+STATS will allow a student to reserve seats on any of the shuttles and points available by their universities. A student can choose their desired pickup and drop off points from the options available. Moreover, a parent can also reserve their child’s seat and also track their own children. This will result in the parents feeling more safe as they will know the location of their child while he/she travels to and from the campus. The driver will have a minimal role but can know how many students have reserved the seats on the bus.
